@@ -1,4 +1,3 @@
 # Competence
 
-Willingness
-deez nuts
+# Willingness
