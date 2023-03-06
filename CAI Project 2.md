@@ -1,8 +1,16 @@
+General remark: we want to scale the amount of change over the times these event are deceted. This would make sma
+
 # Competence
 **increase:**
 - If the human communicates his search for a room, and along the line, it is followed by a message of finding a victim and then rescuing the victim.
+- W
+
 **decrease:**
 - Not communicating the rescue of a victim.
+- If an agent says they've someone, but it hasn't.
+- Whenever a search isn't announced but there was searching done.
+- When the human agent requests assitstance, but there is none needed. 
+
 # Willingness
 **increase:**
 - Coming to assist the robot on carrying a mildly injured victim.
@@ -11,5 +19,8 @@
 - Respond to the robots question fo help(like carrying critical victim) with something unrelated and not coming ot help.
 
 
-
+```
 Note: we Assume that competence is a measure of how good the human is at performing its own tasks with communication and willingness as the measure of how eager the human is to come help the robot.
+```
+
+	
