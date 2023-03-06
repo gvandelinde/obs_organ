@@ -4,3 +4,6 @@
 **decrease:**
 
 # Willingness
+**increase:**
+
+**decrease:**
