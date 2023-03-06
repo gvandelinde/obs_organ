@@ -4,7 +4,7 @@ General remark: we want to scale the amount of change over the times these event
 **increase:**
 - If the human communicates his search for a room, and along the line, it is followed by a message of finding a victim or obstacle in that room.
 - and then rescuing the victim. (i.e. when a human performs a succesfull rescue)
-- 
+ 
 
 **decrease:**
 - Not communicating the rescue of a victim.
@@ -30,3 +30,20 @@ What is a good way of going about processing other information (e.g. found victi
 Is there a message that corresponds to a victim being rescued?
 What do you think of our current list of events?
 ```
+
+
+# Work devision:
+Individual: Ask questions during lab, communicate answers TA
+
+Individual: implement "look at values based on the world's state" (i.e. that are not message-based) based on TA advice
+
+Pair:
+Competence increment
+Competence decrement 
+
+Pair:
+Willingness increment
+Willingness decrement 
+
+# Next time: Discuss 
+how to change behavior of robot.
