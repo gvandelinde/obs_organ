@@ -1,8 +1,8 @@
 # Competence
 **increase:**
-
+- 
 **decrease:**
-
+- 
 # Willingness
 **increase:**
 
