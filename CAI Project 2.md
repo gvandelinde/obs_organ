@@ -4,7 +4,7 @@ General remark: we want to scale the amount of change over the times these event
 **increase:**
 - If the human communicates his search for a room, and along the line, it is followed by a message of finding a victim or obstacle in that room.
 - and then rescuing the victim. (i.e. when a human performs a succesfull rescue)
-- W
+- 
 
 **decrease:**
 - Not communicating the rescue of a victim.
@@ -20,9 +20,12 @@ General remark: we want to scale the amount of change over the times these event
 - Not responding to the questions of the robot in a timely fashion.
 - Respond to the robots question fo help(like carrying critical victim) with something unrelated and not coming ot help.
 
+	Note: we Assume that competence is a measure of how good the human is at performing its own tasks with communication and willingness as the measure of how eager the human is to come help the robot.
+
+
+
+## Tasks:
+```
+
 
 ```
-Note: we Assume that competence is a measure of how good the human is at performing its own tasks with communication and willingness as the measure of how eager the human is to come help the robot.
-```
-
-	
