@@ -1,4 +1,4 @@
 # Competence
-increase:
+**increase:**
 + 
 # Willingness
