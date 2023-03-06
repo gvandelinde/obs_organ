@@ -23,9 +23,10 @@ General remark: we want to scale the amount of change over the times these event
 	Note: we Assume that competence is a measure of how good the human is at performing its own tasks with communication and willingness as the measure of how eager the human is to come help the robot.
 
 
-
-## Tasks:
+## Questions:
 ```
-
-
+Does all our code go into the _trustBeliefs function? (This would mean we are limited to messages)
+What is a good way of going about processing other information (e.g. found victims, rescued victims, etc.)
+Is there a message that corresponds to a victim being rescued?
+What do you think of our current list of events?
 ```
