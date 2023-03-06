@@ -16,6 +16,7 @@ General remark: we want to scale the amount of change over the times these event
 **increase:**
 - Coming to assist the robot on carrying a mildly injured victim.
 - Coming to assist the robot on carrying a mildly injured victim.
+
 **decrease:**
 - Not responding to the questions of the robot in a timely fashion.
 - Respond to the robots question fo help(like carrying critical victim) with something unrelated and not coming ot help.
@@ -34,16 +35,20 @@ What do you think of our current list of events?
 
 # Work devision:
 Individual: Ask questions during lab, communicate answers TA
+-> Pablo
 
 Individual: implement "look at values based on the world's state" (i.e. that are not message-based) based on TA advice
+-> Gijs
 
 Pair:
 Competence increment
 Competence decrement 
+-> Apoorv & Pablo
 
 Pair:
 Willingness increment
 Willingness decrement 
+-> Youri & Gijs
 
 # Next time: Discuss 
 how to change behavior of robot.
