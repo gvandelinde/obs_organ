@@ -32,14 +32,16 @@ Evaluate your system.
 
 #### Design:
 - [ ] Explore een layout vanuit horizontal approach.
+- [ ] Senarios
 - [ ] Create a prototype.
 
 Anish: maken discord, 
-Gijs: maken trello board/notion page, 
-Andy: 
-Julie: 
+Gijs: maken trello board/notion page, uitzoeken waar scenarios into play komen
 Mike:    
-Vincent: Questionair.
+Andy: 
+--> samen: prototypen (! Communiceer !)
 
+Julie: Personas iets meer achtergrond geven en nadenken over hoe ze terug komen in de requirements. 
+Vincent: Questionair.
 
 Volgende meeting: questionaire.
