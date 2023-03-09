@@ -16,7 +16,17 @@ Evaluate your system.
 ## System evaluation
 - Have one _experimental user-evaluation_ of the system.
 
+#### Communicatie:
+- Ik opper om een discord server te maken, vind ik handiger dan whatsapp.
+- Zullen we een trello board maken om samen overzicht te houden van wat er moet gebeuren? Notion heeft hier ook goeie systemen voor, daar wil ik ook wel even naar kijken.
+- 
 
-Dus requirements moeten specefieker en geredeneert vanuit personas.
-Voor
-Questionaire in de requirements terug laten komen.
+#### Pact analysis:
+- [ ] Questionaire moet gemaakt worden.
+- [ ] Resulaten van questionaire moeten in de requirements terug komen.
+- [ ] Personas mogen iets meer achtergrond hebben.
+- [ ] Requirements moeten specefieker
+- [ ] Requirements moeten meer geredeneert vanuit de personas.
+
+#### Design:
+- [ ] 
