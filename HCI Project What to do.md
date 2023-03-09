@@ -18,15 +18,17 @@ Evaluate your system.
 
 #### Communicatie:
 - Ik opper om een discord server te maken, vind ik handiger dan whatsapp.
-- Zullen we een trello board maken om samen overzicht te houden van wat er moet gebeuren? Notion heeft hier ook goeie systemen voor, daar wil ik ook wel even naar kijken.
-- 
 
-#### Pact analysis:
+- Zullen we een trello board maken om samen overzicht te houden van wat er moet gebeuren? Notion heeft hier ook goeie systemen voor, daar wil ik ook wel even naar kijken.
+
+#### PACT analysis:
 - [ ] Questionaire moet gemaakt worden.
+- [ ] Hierarchical Task Analysis -> bespreken.
 - [ ] Resulaten van questionaire moeten in de requirements terug komen.
 - [ ] Personas mogen iets meer achtergrond hebben.
 - [ ] Requirements moeten specefieker
 - [ ] Requirements moeten meer geredeneert vanuit de personas.
 
 #### Design:
-- [ ] 
+- [ ] Explore een layout vanuit horizontal approach.
+- [ ] Create a prototype.
