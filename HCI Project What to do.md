@@ -9,10 +9,14 @@ Prototype your design.
 Evaluate your system.
 ```
 
-
 ## Througout the Project
 - Describe perspectives and values of _different_ stakeholders (not only target group)
 - The systems needs to be __explicitly targeted__ at the target group though!
 
 ## System evaluation
 - Have one _experimental user-evaluation_ of the system.
+
+
+Dus requirements moeten specefieker en geredeneert vanuit personas.
+Voor
+Questionaire in de requirements terug laten komen.
