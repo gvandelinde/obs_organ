@@ -1,4 +1,6 @@
-Goddamnit: The deadline for handing in a draft is __March 27 (start week 7)__
+Belangerijk: The deadline for handing in a draft is __March 27 (start week 7)__
+![[Pasted image 20230309141228.png]]
+
 ## General guideline
 ```
 Identifying requirements for your system
@@ -14,4 +16,3 @@ Evaluate your system.
 
 ## System evaluation
 - Have one _experimental user-evaluation_ of the system.
-- 
