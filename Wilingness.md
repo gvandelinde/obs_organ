@@ -35,3 +35,6 @@ Keep track of array of rescued victims
 Option: have array of booleans that indicate that something just happended, say one element that represents "the bot is waiting after having found a victim".
 
 Other option: when robot comes out of waiting
+
+
+CONSIDER: BASELINE MEASURES: based upon messages and 
