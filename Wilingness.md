@@ -9,7 +9,7 @@ __Wilingness increase__:
 
 __Wilingness decrease__:
 - A human messages 'help remove at ...', but isn't there waiting. (-> maybe add timeframe?)
-- A human messages 'help remove at ...', but there's no obstacle. (-> maybe add timeframe?)
+- A human messages 'help remove at ...', but there's no obstacle. 
     -> messages containing 'Remove'
     -> require observation of rooms/obstacles.
     
