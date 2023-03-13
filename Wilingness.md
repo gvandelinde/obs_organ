@@ -12,7 +12,7 @@ __Wilingness decrease__:
 - A human messages 'help remove at ...', but there's no obstacle. 
     -> messages containing 'Remove'
     -> require observation of rooms/obstacles.
-    
+	
 - A human messages 'rescueue together', but doesn't come (timeframe).
     -> message 'Rescue together'
 
