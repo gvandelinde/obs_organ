@@ -31,4 +31,6 @@ __Wilingness decrease__:
 For all of the above measures, the robot needs to make observations of the state of the room.
 
 
-Option: have array of booleans that indicate that something just happended, say one element that represents "the bot is wait"
+Option: have array of booleans that indicate that something just happended, say one element that represents "the bot is waiting after having found a victim".
+
+Other option: when robot comes out of waiting
