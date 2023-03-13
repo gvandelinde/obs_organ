@@ -20,7 +20,7 @@ __Wilingness decrease__:
     -> messages contains 'Found'
 
 - A human says 'I'm collecting victim', but the victim isn't collected after a different message from the human.
-    -> this requires observations of rescued victims.
+	-> upon further messaging or when we find this victim ourselves we can conclude the human lied!
 
 - A human says I will search in area A, then continues searching a different area but there is something unreported (obstacle or victim) in area A.
     (This might be something that only comes up when all the rooms are "searched" collaberatively, but not bu the robot itself)
@@ -30,6 +30,7 @@ __Wilingness decrease__:
 # Implementation
 For all of the above measures, the robot needs to make observations of the state of the room.
 
+Keep track of array of rescued victims
 
 Option: have array of booleans that indicate that something just happended, say one element that represents "the bot is waiting after having found a victim".
 
