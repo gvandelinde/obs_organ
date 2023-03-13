@@ -1,6 +1,7 @@
 # Wilingness is a question of lying
 __Wilingness increase__:
 - 'help remove at...' is followed by a collaberative removal
+	-> Line 501.
 - 'Rescue together' is follwed by a collaberative rescue mission
 - Found message is followed by the victim being rescueud later
 - Collect message holds up
@@ -28,3 +29,6 @@ __Wilingness decrease__:
 
 # Implementation
 For all of the above measures, the robot needs to make observations of the state of the room.
+
+
+Option: have array of booleans that indicate that something just happended, say one element that represents "the bot is wait"
