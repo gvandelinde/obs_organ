@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAI Project 2.md",
+                "file": "Wilingness.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAI Project 2.md",
+                "file": "Wilingness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAI Project 2.md",
+                "file": "Wilingness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAI Project 2.md"
+                "file": "Wilingness.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "cd67ff5ce4ed2268",
   "lastOpenFiles": [
-    "Strategy for CAI Project 2.md",
     "CAI Project 2.md",
+    "Wilingness.md",
+    "Strategy for CAI Project 2.md",
     "HCI Project What to do.md",
     "Pasted image 20230309141228.png",
     "Pasted image 20230309140708.png",
