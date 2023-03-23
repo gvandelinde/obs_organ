@@ -7,6 +7,8 @@ Division for final report:
 - Evaluation of the system part: Vincent (Abstract version, since we lack data)
 - Conclusion Chapter 5:  Mike
 - Task Devision updaten: Gijs
+- Catchy title: Mike
 
-Deadline: 26th of March
-Then: Everyone does proofread, meeting on 27th of March.
+Everyone should have their tasks done by: __26th of March, midnight.__
+Next day is for proofreading.
+Meeting at shared lab, __13:45, Drebbelweg.__
