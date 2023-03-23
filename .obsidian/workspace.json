@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d48927d3d261c6a",
+        "id": "2581a04c2ff27406",
         "type": "tabs",
         "children": [
           {
-            "id": "cd67ff5ce4ed2268",
+            "id": "d83c394e00c1acc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wilingness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbea24aefa5272c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Masters Event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43b1739d2afcee8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCI Project What to do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14885b77e42f1566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f116d5158e9a192b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategy for CAI Project 2.md",
+                "file": "HCI 23rd of March.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solver.md",
+                "file": "HCI 23rd of March.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solver.md",
+                "file": "HCI 23rd of March.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solver.md"
+                "file": "HCI 23rd of March.md"
               }
             }
           }
@@ -195,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14885b77e42f1566",
+  "active": "d83c394e00c1acc0",
   "lastOpenFiles": [
     "Untitled.md",
-    "HCI Project What to do.md",
     "Wilingness.md",
+    "CAI Project 2.md",
+    "HCI 23rd of March.md",
+    "Strategy for CAI Project 2.md",
+    "Masters Event.md",
+    "HCI Project What to do.md",
     "Solver.md",
     "Pasted image 20230314162034.png",
-    "Masters Event.md",
-    "CAI Project 2.md",
-    "Strategy for CAI Project 2.md",
     "Pasted image 20230309141228.png",
     "Pasted image 20230309140708.png",
     "Pasted image 20230309140638.png"

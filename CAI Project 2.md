@@ -12,7 +12,7 @@ General remark: we want to scale the amount of change over the times these event
 - Whenever a search isn't announced but there was searching done.
 - When the human agent requests assitstance, but there is none needed. 
 
-# Willingness
+# [[Wilingness]] 
 **increase:**
 - Coming to assist the robot on carrying a mildly injured victim.
 - Coming to assist the robot on carrying a mildly injured victim.
