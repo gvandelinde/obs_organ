@@ -1,8 +1,8 @@
+
 - Seville
+
+- Mallorca
 
 - Polen
 
 - Croatia
-
-- Mallorca
-	
