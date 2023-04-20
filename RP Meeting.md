@@ -9,3 +9,7 @@ RQ2(3D gestures): Sem
 RQ3(2D digits): Winstijn
 RQ4(3D digits): Gijs
 RQ5(Alternative): Paco
+
+To receive: Thesis on design of the board.
+
+Weekly meetings:
