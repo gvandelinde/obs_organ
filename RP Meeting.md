@@ -12,4 +12,4 @@ RQ5(Alternative): Paco
 
 To receive: Thesis on design of the board.
 
-Weekly meetings: Mondays, 
+Weekly meetings: {(Monday, 10:00)}
